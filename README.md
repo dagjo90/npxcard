@@ -11,7 +11,7 @@ $ npx dagjo
 
 # Original Idea :  
 
-[https://github.com/bnb/bitandbang](bitandbang)
+[bitandbang](https://github.com/bnb/bitandbang)
 
 # Author  
 

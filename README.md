@@ -6,7 +6,6 @@ To use it no need to install it just type this command :
 
 ```
 $ npx dagjo
-
 ```
 
 # Original Idea :  

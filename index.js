@@ -1,7 +1,7 @@
+#!/usr/bin/env node
 
 const chalk = require('chalk');
 const boxen = require('boxen');
-const terminalImage = require('terminal-image');
 
 const options = {
   padding: 1,
@@ -27,6 +27,5 @@ const data = {
  "\n" + chalk.yellow.bold(" Linkedin : ") + data.linkedin +
  "\n" + chalk.yellow.bold("Instagram : ") + data.instagram ;
 
-(async () => {
-console.log(chalk.yellow(await terminalImage.file('2.jpg') + boxen(output,options)));
-})();
+
+console.log(chalk.yellow(boxen(output,options)));

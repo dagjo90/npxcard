@@ -12,7 +12,7 @@ const data = {
   name : chalk.blue.bold('Dan Gjonaj'),
   pseudo : chalk.green.bold('dagjo'),
   work : chalk.blue.bold("            Junior Web Developper") + chalk.green.bold(' @ Becode Liège'),
-  website : chalk.white.bold("http://dagjo.000webhostapp.com/"),
+  website : chalk.white.bold("https://dagjo90.github.io/") + chalk.green.bold("dagjo"),
   github : chalk.white.bold("https://github.com/") + chalk.green.bold('dagjo90'),
   npm : chalk.white.bold("https://www.npmjs.com/") +chalk.green.bold('~dagjo'),
   linkedin : chalk.white.bold("https://www.linkedin.com/in/") + chalk.green.bold('dan-gjonaj-224105136'),
